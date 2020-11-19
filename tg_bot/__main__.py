@@ -28,25 +28,25 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-┈┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┈▕▕╲┊┊╱▏▏┈┈┈
-┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-┈┈┈┈╲┊┊┊┊╱┈┈┈┈
-┈┈┈┈▕╲▂▂╱▏┈┈┈┈
-╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
+🔺CAUTION🔺:
+I AM UNITER BOT 
+DO NOT PM ME FOR UNNECESSARY THINGS
+YOU WILL BE MONITERED IN MY INBOX BY
+OWNER OF API CONNECTED WITH ME
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+HELLO!    {}, MY NAME IS {} !
 
-[THIS LEGEND](tg://user?id={}).
+I AM A UNITER BOT MAINTAINED BY 
+
+[VENOM](tg://user?id={}).
 
 HIT HELP FOR COMMANDS  /help
 
-I AM COMPLETELY OPEN SOURCE
+FEEL FREE TO ADD ME IN YOUR GROUP
 
-MY SOURCE CODE IS AVAILABLE TO YOU
+HELP CONTACT @mughilethi
 
-[HERE](https://github.com/leobrownlee/phantom)
+
 
 """
 
