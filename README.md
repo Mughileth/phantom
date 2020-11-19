@@ -9,13 +9,13 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
 
 
-[![phantom](https://telegra.ph/file/72b6a2032bd19642ff759.jpg)]
+[![uniter](https://telegra.ph/file/72b6a2032bd19642ff759.jpg)]
 
 
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/leobrownlee/phantom.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mughileth/uniter.git)
 
 
 
@@ -48,8 +48,8 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 254318997  # my telegram ID
-    OWNER_USERNAME = "SonOfLars"  # my telegram username
+    OWNER_ID = 1312896604  # my telegram ID
+    OWNER_USERNAME = "mughilethi"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
