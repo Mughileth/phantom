@@ -38,7 +38,7 @@ HELLO!    {}, MY NAME IS {} !
 
 I AM {} MAINTAINED BY 
 
-[SINGAPEN 🦁 ](tg://user?id={}).
+[SINGAPEN 🦁](tg://user?id={}).
 
 HIT HELP FOR COMMANDS  /help
 
